@@ -1,0 +1,16 @@
+body{
+    background-color: #f0d3d7;
+}
+        a:hover{
+            color:darkorange
+        }     a{
+   
+        hr{
+            border-color: darkkhaki;
+         }
+         img{ 
+            width: 30%; /*largura*/
+            height: auto; /*altura*/
+            border-radius: 5px; /*arrendodar*/
+            box-shadow: #000000 3px 3px 5px;/*valor1 e valor2 são projeções da sombra, valor3 espelhamento da sombra,cor da sombra*/
+         }
